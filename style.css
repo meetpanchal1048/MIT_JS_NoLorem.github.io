@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(255, 253, 249);
+    margin: 0 15%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header{
+    font-size: 40px;
+    background-color:rgb(89, 89, 249);
+    padding: 0 5px;
+    color: white;
+}
+
+.section-centre{
+    opacity: 80%;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.btn{
+    background: transparent;
+    border: 1px dashed black;
+    color: black;
+}
+
+.lorem-text{
+    font-size: 15px;
+}
